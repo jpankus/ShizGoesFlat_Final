@@ -485,9 +485,14 @@ body {
 }
 /*google map css*/
 
+      .searchResults {
+        padding-top: 20px;
+        padding-left: 100px;
+      }
       #map {
         height: 400px;
-        padding:20 50 20 50;
+        padding-top: 20px;
+        padding-left: 100px;
         border-radius: 20px;
       }
       /* Optional: Makes the sample page fill the window. */
